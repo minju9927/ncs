@@ -66,6 +66,7 @@ header {
 .sub-list>div {
     display: flex;
     justify-content: flex-end;
+
 }
 
 .sub-list dl a {
@@ -86,31 +87,6 @@ header {
     height: 300px;
     background-color: antiquewhite;
 }
-
-.swiper .mySwiper .swiper-slide  {
-    background-image: url(../img/slide1.jpg) no-repeat cover/center;
-}
-
-.swiper-wrapper .swiper-slide {
-    background-image: url(../img/slide2.jpg) no-repeat cover/center;
-}
-
-.swiper-wrapper .swiper-slide {
-    background-image: url(../img/slide3.jpg) no-repeat cover/center;
-}
-
-/* .swiper-wrapper .swiper-slide img {
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
-    position: relative;
-} */
-
-.swiper-pagination .swiper-pagination-bullets .swiper-pagination-horizontal .swiper-pagination-bullets-dynamic{
-    color: #ff8484;
-}
-
-.swiper-pagination
 
 img {
     max-width: 100%;

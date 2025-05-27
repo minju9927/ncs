@@ -41,10 +41,3 @@ document.querySelector('.go').addEventListener('click', function () {
 
     window.location.href = document.querySelector('#site').value;
 });
-
-var swiper = new Swiper(".mySwiper", {
-    pagination: {
-        el: ".swiper-pagination",
-        dynamicBullets: true,
-    },
-});
